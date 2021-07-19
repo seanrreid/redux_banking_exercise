@@ -6,7 +6,7 @@ A version of the Redux Banking Exercise, but completed with vanilla JS (no React
 
 ---
 
-### Notes
+## Notes
 
 Note that our in-class exercises are using Redux in vanilla JS, so we're not starting up React applications.
 This is different than the examples in the Learning Portal.
